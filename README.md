@@ -3,6 +3,7 @@
 - 🖥 Estudante de Tecnico em Informatica - Senac
 - 📧 Contato: [Leonardeffg@gmail.com](mailto:Leonardeffg@gmail.com)
 - 💼 Linkedin: [Paulo Ricardo](https://www.linkedin.com/in/paulo-ricardo-00a8aa265/)
+- 👨‍💼 Trabalhos: [Portfólio](https://paulo-ricardo-ffg.github.io/Portifolio/)
 
 <div align="center">
   
