@@ -1,6 +1,7 @@
-<h2 align="center">Bem Vindo ao meu GitHub</h2>
+<h1 align="center">Bem Vindo ao meu GitHub</h1>
 
-- 🖥 Estudante de Tecnico em Informatica - Senac
+<h2> Estudante de Tecnico em Informatica - Senac </h2>
+  
 - 📧 Contato: [Leonardeffg@gmail.com](mailto:Leonardeffg@gmail.com)
 - 💼 Linkedin: [Paulo Ricardo](https://www.linkedin.com/in/paulo-ricardo-00a8aa265/)
 - 👨‍💼 Trabalhos: [Portfólio](https://paulo-ricardo-ffg.github.io/Portifolio/)
